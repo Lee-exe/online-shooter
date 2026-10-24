@@ -420,7 +420,7 @@ class Button
     }
 };
 
-class PowerUp
+class PowerUp //not used!
 {
     public:
     float x,y;
